@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @NwakaAlaku
 - 👀 I’m interested in making the most of data
-- 🌱 I’m currently learning Data analytics
+- 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on interesting data projects
-- 📫 How to reach me ...
+- 📫 How to reach me? DON'T
 - 😄 Pronouns: Royal/Majesty
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Won't be fun if I told you.
 
 <!---
 NwakaAlaku/NwakaAlaku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
