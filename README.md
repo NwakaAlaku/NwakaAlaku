@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NwakaAlaku
 - 👀 I’m interested in making the most of data
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently exploring niche (technical) writing
 - 💞️ I’m looking to collaborate on interesting data projects
 - 📫 How to reach me? DON'T
 - 😄 Pronouns: Royal/Majesty
